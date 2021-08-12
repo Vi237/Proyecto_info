@@ -1,6 +1,6 @@
 # Primer proyecto  "infogram"😰 
 ```
-#### introducción:
+introducción:
 
 Primer proyecto de *DISPOSITIVOS MOVILES* almacena fotografias 🤓   
 
