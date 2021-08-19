@@ -77,7 +77,7 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/button_text_create_account"
+                android:text="@string/button_text_create_accout"
                 android:layout_marginTop="@dimen/marginTop_account"
                 android:theme="@style/RaiseButtonDark">
             </Button>
