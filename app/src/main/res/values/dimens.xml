@@ -3,4 +3,8 @@
     <dimen name="editText_textSise">20sp</dimen>
     <dimen name="login_horizontalMargin">40dp</dimen>
     <dimen name="login_marginTop">20dp</dimen>
+    <dimen name="imageView_layaoutHeght">150dp</dimen>
+    <dimen name="TextView_textSise">18sp</dimen>
+    <dimen name="padding_create_account">40dp</dimen>
+    <dimen name="marginTop_account">35dp</dimen>
 </resources>

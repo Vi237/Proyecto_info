@@ -4,4 +4,5 @@
     <string name="nombre_de_usuario">Hatalliqpa sutin</string>
     <string name="contarsena">Contarseña</string>
     <string name="button_text">LOGIN</string>
+    <string name="no_tienes_cuenta">¿No tienes cuenta?</string>
 </resources>
