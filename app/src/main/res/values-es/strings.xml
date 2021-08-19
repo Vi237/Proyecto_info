@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">infogram</string>
     <string name="nombre_de_usuario">Nombre de Usuario</string>
-    <string name="contarsena">Contarseña</string>
+    <string name="contrasena">Contarseña</string>
     <string name="button_text">LOGIN</string>
     <string name="no_tienes_cuenta">¿No tienes cuenta?</string>
 </resources>
