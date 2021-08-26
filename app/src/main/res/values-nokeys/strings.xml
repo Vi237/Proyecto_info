@@ -2,4 +2,5 @@
 <resources>
     <string name="button_text">LOGIN</string>
     <string name="no_tiene_cuenta">¿No tiene cuenta?</string>
+    <string name="title_crear_cuenta">Crear cuenta</string>
 </resources>
