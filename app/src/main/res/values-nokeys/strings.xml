@@ -3,4 +3,8 @@
     <string name="button_text">LOGIN</string>
     <string name="no_tiene_cuenta">¿No tiene cuenta?</string>
     <string name="title_crear_cuenta">Crear cuenta</string>
+    <string name="carlos_vargas_cardview">Carlos Vargas</string>
+    <string name="hace_cardview">Hace</string>
+    <string name="dias_cardview">4 dias</string>
+    <string name="me_gusta_cardview">10 me gusta</string>
 </resources>
