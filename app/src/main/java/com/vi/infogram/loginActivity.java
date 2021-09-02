@@ -2,6 +2,7 @@ package com.vi.infogram;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
@@ -13,6 +14,7 @@ public class loginActivity extends AppCompatActivity {
         setContentView(R.layout.activity_login);
     }
     public void goCreateAccount(View view){
-        System.out.println("------------->go to create account");
+        Intent intent=new Intent(this,CreatAccountActivity.class);
+        startActivity(intent);
     }
 }

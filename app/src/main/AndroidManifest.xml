@@ -9,9 +9,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Infogram">
-        <activity
-            android:name=".CreatAccountActivity"
-            android:exported="true" />
         <activity android:name=".loginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,6 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".CreatAccountActivity"
+            android:parentActivityName=".loginActivity"
+            android:exported="true" />
+        <!--meta-data>
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".LoginActivity"
+        </-meta-data-->
     </application>
 
 </manifest>
